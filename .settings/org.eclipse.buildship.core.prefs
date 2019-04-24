@@ -1,0 +1,7 @@
+#Tue Apr 23 21:53:37 PDT 2019
+connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(/Users/chaitanyarudrabhatla/Documents/softwares/gradle-5.4))
+override.workspace.settings=true
+gradle.user.home=/Users/chaitanyarudrabhatla/Documents/softwares/gradle-5.4
+connection.project.dir=
+offline.mode=false
+build.scans.enabled=false
